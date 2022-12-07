@@ -1,0 +1,15 @@
+C:\Users\Антон\Desktop\FinalTask\FinalTask1\bin\Debug\net7.0\FinalTask1.exe
+C:\Users\Антон\Desktop\FinalTask\FinalTask1\bin\Debug\net7.0\FinalTask1.deps.json
+C:\Users\Антон\Desktop\FinalTask\FinalTask1\bin\Debug\net7.0\FinalTask1.runtimeconfig.json
+C:\Users\Антон\Desktop\FinalTask\FinalTask1\bin\Debug\net7.0\FinalTask1.dll
+C:\Users\Антон\Desktop\FinalTask\FinalTask1\bin\Debug\net7.0\FinalTask1.pdb
+C:\Users\Антон\Desktop\FinalTask\FinalTask1\obj\Debug\net7.0\FinalTask1.csproj.AssemblyReference.cache
+C:\Users\Антон\Desktop\FinalTask\FinalTask1\obj\Debug\net7.0\FinalTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Антон\Desktop\FinalTask\FinalTask1\obj\Debug\net7.0\FinalTask1.AssemblyInfoInputs.cache
+C:\Users\Антон\Desktop\FinalTask\FinalTask1\obj\Debug\net7.0\FinalTask1.AssemblyInfo.cs
+C:\Users\Антон\Desktop\FinalTask\FinalTask1\obj\Debug\net7.0\FinalTask1.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\FinalTask\FinalTask1\obj\Debug\net7.0\FinalTask1.dll
+C:\Users\Антон\Desktop\FinalTask\FinalTask1\obj\Debug\net7.0\refint\FinalTask1.dll
+C:\Users\Антон\Desktop\FinalTask\FinalTask1\obj\Debug\net7.0\FinalTask1.pdb
+C:\Users\Антон\Desktop\FinalTask\FinalTask1\obj\Debug\net7.0\FinalTask1.genruntimeconfig.cache
+C:\Users\Антон\Desktop\FinalTask\FinalTask1\obj\Debug\net7.0\ref\FinalTask1.dll
